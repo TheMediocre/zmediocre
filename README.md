@@ -1,6 +1,6 @@
 
 
-I'm Médiocre, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
+I'm Mediocre, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
 
 🔭 I’m currently working on a music app.
 
