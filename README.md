@@ -2,13 +2,15 @@
 
 I'm Mediocre, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
 
-🔭 I’m currently working on a music app.
+🔭 Je travaille surtout sur le developpement de bot discord.
 
-🌱 I’m currently coding in Javascript and C#.
+🌱 je code en Java Script la plupart du temps puis j'utilise aussi du Type Script et j'ai quelque projet en Python avec l'aide de mes amis.
 
- ❓ I am in love with coding Discord Bots, I also love helping!.
+ ❓ je me sens plutot bien dans le coding des bots discord et j'aime aider les autres soit dans leurs projets ou sur la compréhension des erreurs .
 
-COMMENT FAIRE UN BOT DISCORD ?
+--------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 COMMENT FAIRE UN BOT DISCORD ?
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1. 🎢 Préparation
 
