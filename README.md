@@ -9,7 +9,7 @@ I'm Médiocre, mainly a Discord Bot Developer 👨‍💻 working peacefully sin
 
 ❓ I am in love with coding Discord Bots, I also love helping!.
 
-Skills & Tools computer_mouse
+#Skills & Tools computer_mouse
 
 When I need to build things, I usually go for vue Vue.js to code my websites and node-js Node.js with typescript TypeScript for my bots and APIs. My favorite database is definitely postgresql PostgreSQL.
 
