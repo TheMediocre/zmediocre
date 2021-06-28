@@ -1,13 +1,21 @@
 
 ![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/header_.png)
 
-I'm Mediocre, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
+[![Active](https://img.shields.io/badge/Langages-JS%20/%20TS%20/%20Go%20/%20Java-cyan?style=flat-square)](https://github.com/zmediocre)
+[![Active](https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&logo=discord)](https://discord.gg/H8KaKdqSJ6) 
 
-🔭 Je travaille surtout sur le developpement de bot discord.
+I'm Mediocre, mainly a French Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
 
-🌱 je code en Java Script la plupart du temps puis j'utilise aussi du Type Script et j'ai quelque projet en Python avec l'aide de mes amis.
+![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/docker.gif)
 
- ❓ je me sens plutot bien dans le coding des bots discord et j'aime aider les autres soit dans leurs projets ou sur la compréhension des erreurs .
+
+🔭 I mainly work on the development of discord bot.
+
+🌱 I code in Java Script most of the time then I also use Type Script and have some Python project with the help of my friends.
+
+❓ I feel pretty good coding discord bots and I like helping others either in their projects or in understanding mistakes.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
                                                  COMMENT FAIRE UN BOT DISCORD ?
