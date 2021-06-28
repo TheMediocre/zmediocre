@@ -1,4 +1,5 @@
 
+![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/header_.png)
 
 I'm Mediocre, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
 
