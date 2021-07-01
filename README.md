@@ -4,6 +4,8 @@
 [![Active](https://img.shields.io/badge/Langages-JS%20/%20TS%20/%20Go%20/%20Java-cyan?style=flat-square)](https://github.com/zmediocre)
 [![Active](https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&logo=discord)](https://discord.gg/H8KaKdqSJ6) 
 
+[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/H8KaKdqSJ6)
+
 I'm Mediocre, mainly a French Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
 
 ![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/docker.gif)
